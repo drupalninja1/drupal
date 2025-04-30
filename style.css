@@ -24,9 +24,11 @@ h3 {
 }
 .work .sin-wrk {
   background: #e29a9a;
-  padding: 10;
+  padding: 10px;
 }
 .work .sin-wrk h1 {
   background: #4345ca;
   padding: 10px;
+  margin-top: 3px;
+  margin-bottom: 3px;
 }/*# sourceMappingURL=style.css.map */
