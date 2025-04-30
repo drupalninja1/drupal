@@ -16,4 +16,17 @@ h2 {
 h3 {
   color: blue;
   font-weight: normal;
+}
+
+.work {
+  background-color: #ccc;
+  padding: 20px;
+}
+.work .sin-wrk {
+  background: #e29a9a;
+  padding: 10;
+}
+.work .sin-wrk h1 {
+  background: #4345ca;
+  padding: 10px;
 }/*# sourceMappingURL=style.css.map */

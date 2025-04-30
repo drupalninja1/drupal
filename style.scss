@@ -20,3 +20,15 @@ h3 {
   color: blue;
   font-weight: normal;
 }
+.work {
+  background-color: #ccc;
+  padding: 20px;
+  .sin-wrk {
+    background: #e29a9a;
+    padding: 10;
+    h1 {
+      background: #4345ca;
+      padding: 10px;
+    }
+  }
+}
